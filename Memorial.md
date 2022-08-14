@@ -1,4 +1,4 @@
-# Memorial Descritivo da Graduação em Sistemas de Informação na PUC Minas (2019 - 2022)
+# Memorial Descritivo da Graduação em Engenharia de Software na PUC Minas (2019 - 2022)
 
 Thiago Jorge Queiroz Silva
 
