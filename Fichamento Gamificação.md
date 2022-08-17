@@ -1,5 +1,7 @@
 # How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub
 
+ Moldon, Lucas; Strohmaier, Markus; Wachs, Johannes. "How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub", in IEEE/ACM 43rd International Conference on Software Engineering (ICSE): https://doi.org/10.1109/ICSE43902.2021.00058
+
 ## 1.Fichamento de Conteúdo
 
 O artigo em questão trata sobre a influência da gamificação sobre desenvolvedores de software durante o processo de desenvolvimento. 
@@ -21,9 +23,9 @@ das sequencias na rede social?
 ## 2.Fichamento Bibliográfico
 Gamification (Gamificação) aplicação das estratégias de jogos em atividades relacionadas ao desenvolvimento de software como contador de contribuições em uma plataforma de hospedagem de código
 
-associated geolocation from GHTorrent o armazenamento da geolocalização do usuário que realizou a contribuição para que seja feito o cálculo de sequencia de controbuições diarias
+associated geolocation from GHTorrent (geolocalização associada do GHTorrent) o armazenamento da geolocalização do usuário que realizou a contribuição para que seja feito o cálculo de sequencia de controbuições diarias
 
-streaking se trata de uma sequencia de controbuições diárias, ou seja, quando o desenvolvedor realiza contribuições em uma sequencia de dias ininterruptos
+streaking (acumular) se trata de uma sequencia de controbuições diárias, ou seja, quando o desenvolvedor realiza contribuições em uma sequencia de dias ininterruptos
 
 ## 3.Fichamento de Citações
 
