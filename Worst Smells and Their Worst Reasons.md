@@ -18,8 +18,20 @@ participante do questionário os motivos de 4 das 80 <em> code smells </em> (esc
 fim encontrando um conjunto de 7 razões principais que tornam estas as piores <em> code smells </em>. 
 
 ## 2.Fichamento Bibliográfico
+<em> code smells </em> se trata de uma lista de práticas que são prejudiciais ao código de um sistema e que afetam diretamente a sua qualidade, principalmente em questões de manutenção.
+
+<em> quality gates </em> (portões de qualidade) se tratam de uma tecnologia que validam os <em> pushes </em> dos desenvolvedores ao repositório do sistema, sendo assim estes <em> quality gates </em> podem ser utilizados para verificar a presença de code smells dentro do código e assim impedir que códigos de má qualidade componham o sistema.
+
+<em> weighted occurrences </em> (peso de ocorrencias) se trata da quantidade que uma <em> code smell </em> aparecia no texto, tratando assim não somente da frequencia 
+em que ela aparecia durante as releases analisadas mas também como eram recorrentes dentro de uma mesma classe por exemplo.
 
 
 
 ## 3.Fichamento de Citações
+"In conclusion, on one hand we know that fewer smells are “better”, but on the other hand we know that in the end, this is a matter of compromises driven by practical, often extraneous concerns"
+
+"That is to say, these smells are just as frequent and just as damaging as other smells, but there is never any justifiable reason to introduce them."
+
+" Our results show that 80 out of 314 catalogued code smells were considered as worst; i.e., the surveyed developers agreed that these 80 smells should never exist in any code base"
+
 
