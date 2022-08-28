@@ -1,6 +1,6 @@
 # How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub
 
- Moldon, Lucas; Strohmaier, Markus; Wachs, Johannes. "How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub", in IEEE/ACM 43rd International Conference on Software Engineering (ICSE): https://doi.org/10.1109/ICSE43902.2021.00058
+L. Moldon, M. Strohmaier and J. Wachs, "How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 549-561, doi: 10.1109/ICSE43902.2021.00058: https://ieeexplore.ieee.org/document/9402097
 
 ## 1.Fichamento de Conteúdo
 
