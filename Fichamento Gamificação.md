@@ -20,9 +20,9 @@ foram alterados? RQ3: Os desenvolvedores utilizam os contadores para definir e a
 das sequencias na rede social?
 
 ## 2.Fichamento Bibliográfico
-- Gamification (Gamificação) aplicação das estratégias de jogos em atividades relacionadas ao desenvolvimento de software como contador de contribuições em uma plataforma de hospedagem de código
-- associated geolocation from GHTorrent (geolocalização associada do GHTorrent) o armazenamento da geolocalização do usuário que realizou a contribuição para que seja feito o cálculo de sequência de contribuições diárias 
-- streaking (acumular) se trata de uma sequência de contribuições diárias, ou seja, quando o desenvolvedor realiza contribuições em uma sequência de dias ininterruptos 
+- Gamification (Gamificação) aplicação das estratégias de jogos em atividades relacionadas ao desenvolvimento de software como contador de contribuições em uma plataforma de hospedagem de código. (Página 1)
+- associated geolocation from GHTorrent (geolocalização associada do GHTorrent) o armazenamento da geolocalização do usuário que realizou a contribuição para que seja feito o cálculo de sequência de contribuições diárias. (Página 4)
+- streaking (acumular) se trata de uma sequência de contribuições diárias, ou seja, quando o desenvolvedor realiza contribuições em uma sequência de dias ininterruptos. (Página 4) 
 
 ## 3.Fichamento de Citações
 
